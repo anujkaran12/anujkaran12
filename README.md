@@ -1,69 +1,57 @@
-# Hey, I'm Anuj 👋
+# Anuj.exe
 
-Full Stack Developer who enjoys turning coffee ☕ into scalable web applications.
+Currently running...
 
-Currently building with **Next.js, React, Node.js, MongoDB, and WebSockets** while exploring ways to make products faster, cleaner, and less likely to break at 2 AM.
+- Building random things that somehow become projects
+- Turning caffeine into code
+- Refactoring code that worked yesterday
+- Convincing bugs to leave peacefully
 
-```js
-const anuj = {
-  role: "Full Stack Developer",
-  location: "India",
-  currentlyLearning: ["System Design", "Docker", "PostgreSQL"],
-  interests: ["Real-time Apps", "AI Products", "Developer Tools"],
-  bugStatus: "Fix one, discover three more"
-};
+```javascript
+while (alive) {
+  learn();
+  build();
+  breakThings();
+  fixThings();
+}
 ```
 
-## What I Work With
+## Current Quest
 
-**Frontend**
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- Redux Toolkit
+- Exploring AI-powered products
+- Building real-time applications
+- Making UIs unnecessarily smooth
+- Collecting side-project ideas faster than I can finish them
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- WebSockets
+## Toolbox
 
-**Database & Tools**
-- MongoDB
-- Git & GitHub
-- Postman
+Frontend
+> Next.js • React • TypeScript • Tailwind
 
-## Featured Projects
+Backend
+> Node.js • Express • MongoDB
 
-### 🚀 CodeSync
-Real-time collaborative coding platform with live code sharing, chat, room history, and session persistence.
+Other Stuff
+> WebSockets • Git • APIs • Problem Solving
 
-**Tech:** React • Node.js • MongoDB • WebSockets
+## Recent Experiments
 
----
+🧑‍💻 Real-time collaborative coding platform
 
-### 🛍️ Wild Stitch
-Full-stack e-commerce platform featuring authentication, product management, orders, payments, and analytics.
+🛍️ E-commerce platform
 
-**Tech:** React • Express.js • MongoDB • Redux Toolkit • JWT
+🤖 AI-powered web applications
 
----
+🚧 Several unfinished projects that taught me valuable lessons
 
-## Experience
+## Fun Facts
 
-**Full Stack Developer Intern @ Q1K.ai**
-- Built production features using Next.js & Tailwind CSS
-- Developed role-based admin workflows
-- Contributed reusable components to the internal UI kit
-- Worked on SEO-focused blog infrastructure
-
-## Connect
-
-- LinkedIn: <YOUR_LINKEDIN>
-- Portfolio: <YOUR_PORTFOLIO>
+- I spend more time naming variables than writing them.
+- "Just one small change" has never been a small change.
+- My code works best after I threaten to rewrite it.
+- 90% of programming is reading error messages.
+- The other 10% is realizing the error message was right.
 
 ---
 
-> Building things, breaking things, fixing things, and occasionally documenting things.
+*"It worked on localhost."*
